@@ -16,7 +16,7 @@ Formulário de contato simples.
 
 #### 🗂 List
 
-Lista de compras usando <em>checkbox</em>.
+Lista de compras usando <code>checkbox</code>.
 
 #### 🗂 Quiz
 
